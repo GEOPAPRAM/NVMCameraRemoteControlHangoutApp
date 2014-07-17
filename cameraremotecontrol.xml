@@ -8,7 +8,7 @@
   <script type="text/javascript" src="//www.google.com/jsapi"></script>
   <script type="text/javascript">google.load("jquery", "1.3.2");</script>
   <script type="text/javascript" src="//plus.google.com/hangouts/_/api/v1/hangout.js"></script>
-  <script type="text/javascript" src="http://www.aptile.co.uk/PztHangoutCameraController/ggs/cameraremotecontol.js"></script>
+  <script type="text/javascript" src="http://www.aptile.co.uk/PztHangoutCameraController/ggs/cameraremotecontrol.js"></script>
   <!--link type="text/css" rel="stylesheet" href="//hangoutsapi.appspot.com/static/yesnomaybe/yesnomaybe.css" /-->
 
 ]]></Content>
